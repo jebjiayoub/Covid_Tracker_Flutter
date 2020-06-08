@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290278798965",
+    "firebase_url": "https://covidtrackerflutter.firebaseio.com",
+    "project_id": "covidtrackerflutter",
+    "storage_bucket": "covidtrackerflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290278798965:android:3ed6c7df11a5f78a01aa3c",
+        "android_client_info": {
+          "package_name": "flutter.jebjiayoub.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290278798965-709u5bd1n9fvbra0tqd2hebun8e4qgi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2Jb605K6uTp8lN-Q-yBby0X2Cpsio_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290278798965-709u5bd1n9fvbra0tqd2hebun8e4qgi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
